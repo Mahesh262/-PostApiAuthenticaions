@@ -1,0 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+.movieposter{
+    width: 120px;
+    background-position: center;
+}
